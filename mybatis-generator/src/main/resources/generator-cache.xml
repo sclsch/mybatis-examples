@@ -28,7 +28,7 @@
                 driverClass="com.mysql.jdbc.Driver"
                 connectionURL="jdbc:mysql://localhost:3306/mybatis"
                 userId="root"
-                password="你的密码"/>
+                password="root"/>
 
         <javaTypeResolver>
             <property name="forceBigDecimals" value="false"/>
