@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f9ac75e-fadb-47ca-8442-31ddd8b122d9" name="Default Changelist" comment="连接mysql8.x数据库">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7f9ac75e-fadb-47ca-8442-31ddd8b122d9" name="Default Changelist" comment="gitignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,7 +184,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/ideaworks/mybatis-examples/helloMybatis",
+    "last_opened_file_path": "D:/ideaworks/mybatis-examples/mybatis-generator",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -318,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658222887505</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="gitignore">
+      <created>1658223619953</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658223619953</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -407,7 +412,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="连接mysql8.x数据库" />
-    <option name="LAST_COMMIT_MESSAGE" value="连接mysql8.x数据库" />
+    <MESSAGE value="gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
